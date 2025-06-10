@@ -1,0 +1,9 @@
+การพัฒนาแชทบอทประเมินความวิตกกังวล (GAD-7)
+The development of General Anxiety Disorder-7 (GAD-7) Chatbot
+
+ABSTRACT
+
+Anxiety and stress are prevalent mental health issues that significantly impact individuals' quality of life, especially following the COVID-19 pandemic, which has led to a continuous increase in cases. Patients often face challenges in accessing mental health services due to factors such as limited availability, high costs, and social stigma. Furthermore, there is a lack of a connected system for ongoing symptom tracking and assessment. 
+This research presents the development of a chatbot designed to assess anxiety and stress symptoms in a preliminary manner. The main objective is to help users track their symptoms conveniently through the LINE OA platform. The system utilizes validated questionnaires such as the GAD-7 and PSS for initial assessments and provides personalized recommendations based on the severity of the user’s symptoms. 
+The expected outcomes of this project include enabling users to effectively monitor and manage their mental health, reduce anxiety, and improve their quality of life. The system focuses on providing appropriate recommendations based on symptom severity, while maintaining a record of assessment history for continuous tracking and evaluation.
+Keywords: Anxiety, Stress, Chat bot, Mental health, LINE OA
